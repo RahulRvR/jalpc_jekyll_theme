@@ -11,13 +11,13 @@ url: "http://www.jack003.com"
 # author
 author:
   name: 'Rahul'
-  first_name: 'Rahul'
-  last_name: 'RV'
+  first_name: 'RV'
+  last_name: 'Rahul'
   email: 'rahul@rahulrv.com'
   facebook_username: 'rahulr7v'
   github_username: 'rahulrvr'
   head_img: 'static/img/landing/rahul.png'
-  desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
+  desc: 'I like to code, travel and explore different music and culture. I am currently working as an Android Engineer based in San Francisco'
 
 # sections
 sections:
