@@ -16,7 +16,7 @@ author:
   email: 'rahul@rahulrv.com'
   facebook_username: 'rahulr7v'
   github_username: 'rahulrvr'
-  head_img: 'static/img/landing/Rahul.jpg'
+  head_img: 'static/img/landing/rahul.jpg'
   desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
 
 # sections
@@ -56,13 +56,6 @@ sections:
     name: 'Links'
     tpl: 'links.html'
     css: 'contact'
-
-# localization
-languages:
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
-  - locale: 'zh'
-    flag: 'static/img/flags/China.png'
 
 # blog img path
 img_path: 'http://www.jack003.com/static/img/blog'
