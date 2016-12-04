@@ -1,8 +1,8 @@
-- name: Python
+- name: Java
   percentage: 85
 
-- name: HTML/CSS
-  percentage: 65
+- name: Android
+  percentage: 80
 
 - name: Linux/Shell
   percentage: 75
