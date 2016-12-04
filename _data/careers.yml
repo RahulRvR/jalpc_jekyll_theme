@@ -1,29 +1,43 @@
 - name:
     detail: Gametime
-    i18n: nextcode
+    i18n: gametime
   desc:
     detail: Currently working as an Android Engineer for Gametime in San Francisco.
-    i18n: nextcode_des
+    i18n: gametime_des
   date:
     detail: Oct. 2015 - Till Date
-    i18n: nextcode_date
+    i18n: gametime_date
   job:
     detail: Android Engineer
-    i18n: nextcode_job
+    i18n: gametime_job
   icon: fa-plus-square
 
 - name:
-    detail: Infosys (Comcast)
-    i18n: netease
+    detail: Elsevier
+    i18n: elsevier
   desc:
-    detail: Started my first Android project for Comcast Xfinity Home Security.
-    i18n: netease_des
+    detail: Built android apps from scratch using material design, clean architecture and reactive Programming.
+    i18n: elsevier_desc
   date:
-    detail: Jun. 2013
-    i18n: netease_date
+    detail: Nov. 2014
+    i18n: elsevier_date
   job:
     detail: Android Engineer
-    i18n: netease_job
+    i18n: elsevierjob
+  icon: fa-android
+
+- name:
+    detail: Comcast Xfinity
+    i18n: comcast
+  desc:
+    detail: Started my first Android project for Comcast Xfinity Home Security.
+    i18n: comcast_des
+  date:
+    detail: Jun. 2013
+    i18n: comcast_date
+  job:
+    detail: Android Engineer
+    i18n: cocast_job
   icon: fa-android
 
 - name:
