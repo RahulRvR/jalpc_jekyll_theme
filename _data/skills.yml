@@ -4,17 +4,17 @@
 - name: Android
   percentage: 80
 
-- name: Linux/Shell
-  percentage: 75
-
-- name: jQuery
-  percentage: 85
-
-- name: AngularJS
-  percentage: 80
-
-- name: Ionic
+- name: Material Design
   percentage: 70
 
-- name: Vuejs
+- name: Reactive/RxJava
   percentage: 65
+
+- name: Flex, ActionScript, MXML
+  percentage: 50
+
+- name: JavaScript, HTML, CSS
+  percentage: 50
+
+- name: Server Side Programming
+  percentage: 30

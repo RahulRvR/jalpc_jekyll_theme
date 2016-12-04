@@ -1,11 +1,11 @@
 - name:
-    detail: Nextcode
+    detail: Gametime
     i18n: nextcode
   desc:
     detail: Currently working as an Android Engineer for Gametime in San Francisco.
     i18n: nextcode_des
   date:
-    detail: Oct. 2015
+    detail: Oct. 2015 - Till Date
     i18n: nextcode_date
   job:
     detail: Android Engineer
@@ -13,30 +13,30 @@
   icon: fa-plus-square
 
 - name:
-    detail: Netease Game
+    detail: Infosys (Comcast)
     i18n: netease
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
+    detail: Started my first Android project for Comcast Xfinity Home Security.
     i18n: netease_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: Jun. 2013
+    i18n: netease_date
   job:
-    detail: Dev Ops
+    detail: Android Engineer
     i18n: netease_job
   icon: fa-gamepad
 
 - name:
-    detail: Ucloud
+    detail: Infosys
     i18n: ucloud
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
+    detail: Joined Infosys as a Software Engineer and built RIA webapps using Adobe Flex and java.
     i18n: ucloud_des
   date:
-    detail: Sep. 2013
+    detail: Sep. 2008
     i18n: ucloud_date
   job:
-    detail: Dev Ops
+    detail: RIA Web Engineer
     i18n: ucloud_job
   icon: fa-cloud
 
