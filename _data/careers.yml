@@ -2,13 +2,13 @@
     detail: Nextcode
     i18n: nextcode
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+    detail: Currently working as an Android Engineer for Gametime in San Francisco.
     i18n: nextcode_des
   date:
-    detail: Apr. 2016
+    detail: Oct. 2015
     i18n: nextcode_date
   job:
-    detail: Python Developer
+    detail: Android Engineer
     i18n: nextcode_job
   icon: fa-plus-square
 
@@ -44,10 +44,10 @@
     detail: Graduation
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: At June 2008,I graduated from college and started my software development career.
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: Jul. 2008
     i18n: college_date
   job:
     detail: Student
