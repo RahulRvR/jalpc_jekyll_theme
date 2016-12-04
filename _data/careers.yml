@@ -24,7 +24,7 @@
   job:
     detail: Android Engineer
     i18n: netease_job
-  icon: fa-gamepad
+  icon: fa-android
 
 - name:
     detail: Infosys
@@ -38,7 +38,7 @@
   job:
     detail: RIA Web Engineer
     i18n: ucloud_job
-  icon: fa-cloud
+  icon: fa-code
 
 - name:
     detail: Graduation
