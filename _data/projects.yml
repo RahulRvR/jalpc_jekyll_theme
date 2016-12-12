@@ -2,10 +2,10 @@
   i18n: 'spotbike'
   url: '/RahulRvR/SpotBikePhilly'
   img: 'static/img/landing/spotbike.png'
-  desc: 'Live updates on availablity of shared bikes in Philadlephia'
+  desc: 'Live updates on availability of shared bikes in Philadelphia'
 
 - name: 'Movies Now'
   i18n: 'moviesnow'
   url: '/RahulRvR/Movie'
   img: 'static/img/landing/moviesnow.png'
-  desc: "My take on material design and experimenting with different desing patterns with testing"
+  desc: "My take on material design and experimenting with different design patterns with testing"

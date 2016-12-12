@@ -13,7 +13,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Elsevier
+    detail: Infosys (Elsevier)
     i18n: elsevier
   desc:
     detail: Built android apps from scratch using material design, clean architecture and reactive Programming.
@@ -27,7 +27,7 @@
   icon: fa-android
 
 - name:
-    detail: Comcast Xfinity
+    detail: Infosys (Comcast Xfinity)
     i18n: comcast
   desc:
     detail: Started my first Android project for Comcast Xfinity Home Security.
@@ -42,7 +42,7 @@
 
 - name:
     detail: Infosys
-    i18n: ucloud
+    i18n: infy
   desc:
     detail: Joined Infosys as a Software Engineer and built RIA webapps using Adobe Flex and java.
     i18n: ucloud_des

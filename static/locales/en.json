@@ -9,11 +9,11 @@
     "projects": "Projects",
     "career": "Career",
     "blog": "Blog",
-    "link": "Android App Portfolio"
+    "link": "Android Apps Portfolio"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I like to code, travel and explore different music and culture. I am currently working as Android Engineer in San Francisco."
+    "des": "I like to code, travel and explore different music and cultures. I am currently working as an Android Engineer in San Francisco."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -24,19 +24,19 @@
   "career":{
     "my_career": "My Career",
     "nextcode": "Gametime",
-    "nextcode_des": "Currently working as Android Engineer for Gametime in San Francisco",
+    "nextcode_des": "Currently working as an Android Engineer for Gametime in San Francisco.",
     "nextcode_date": "Oct. 2015 - Till Date",
     "nextcode_job": "Android Enginner",
-    "netease": "Infosys(Comcast)",
-    "netease_des": "Started my first Android project for Comcast Xfinity Home Security",
+    "netease": "Infosys (Comcast)",
+    "netease_des": "Started my first Android project for Comcast Xfinity Home Security.",
     "netease_date": "Jun. 2013",
     "netease_job": "Android Engineer",
     "ucloud": "Infosys",
-    "ucloud_des": "Joined Infosys as a Software Engineer and built RIA webapps using Adobe Flex and java",
+    "ucloud_des": "Joined Infosys as a Software Engineer and built RIA webapps using Adobe Flex and java for clients like Nike, Verizon and CableVision.",
     "ucloud_date": "Sep. 2008",
     "ucloud_job": "RIA Web Engineer",
     "college": "Graduation",
-    "college_des": "In July 2008, I completed my B.Tech Information technology",
+    "college_des": "In July 2008, I completed my B.Tech Information technology degree",
     "college_date": "Jun. 2008",
     "college_job": "Student"
   },
@@ -44,7 +44,7 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Android App Portfolio",
+    "link": "Android Apps Portfolio",
     "view": "views"
   }
 
